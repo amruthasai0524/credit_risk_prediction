@@ -105,7 +105,7 @@ Special thanks to my mentors and guides:
 * Rahul Sir (Mentor)
 * Raghuram Sir (Programme Managing Director)
 * Vishwanath Nyatani
-* Kirtika Reddy Madam
+* Kalpana katiki Reddy
 
 for their continuous support and guidance throughout this project.
 
